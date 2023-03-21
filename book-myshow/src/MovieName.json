@@ -1,0 +1,32 @@
+[
+{
+   "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny45LzEwICAxLjVLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00354916-adhpkbffhk-portrait.jpg",
+   "MovieName":"Kannai Nambaathe",
+   "Discription":"Crime/Drama/Thriller" ,
+   "id":1
+},
+{
+   "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC40LzEwICA3LjRLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00312239-nsutuudumm-portrait.jpg",
+   "MovieName":"Shazam",
+   "Discription":"Action/Adventure",
+   "id":2
+},
+{
+   "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC44LzEwICA3LjVLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00315054-ursehmwujh-portrait.jpg",
+   "MovieName":"Kabzza",
+   "Discription":"Action/Crime/Drama/Period",
+   "id":3
+},
+{
+   "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MTI1LjdLIGxpa2Vz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00311714-qcryasajfx-portrait.jpg",
+   "MovieName":"John Wick:Chapter 4",
+   "Discription":"Action/Triller",
+   "id":4
+},
+{
+   "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4zLzEwICA1LjNLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00350136-vglxaabfag-portrait.jpg",
+   "MovieName":"Ayothi",
+   "Discription":"Drama",
+   "id":5
+}
+]

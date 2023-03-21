@@ -1,0 +1,66 @@
+.container {
+    width: 85%;
+    margin: auto;
+}
+.main{
+    background-color:#333545;
+}
+.logomain{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 2rem;
+   
+}
+.logo{
+    display: flex;
+    width: 70%;
+    margin-top: 1rem;
+}
+.btn button{
+    background-color:#f84465;
+    padding: 0.7rem;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    border-radius:5px;
+}
+
+.btn {
+     padding-top: 0.5rem;
+}
+.logoimg img{
+   width: 100%;
+}
+.logoinput input{
+     width:100%;
+    height: 3rem;
+    border:none;
+    font-size: 1rem;
+    border-radius: 10px;
+}
+.logoinput{
+    width:70%;
+    margin-left: 1rem;
+}
+.main1{
+    background-color:#172037;
+    padding:1rem;;
+}
+.movies {
+    display: flex;
+    justify-content: space-between;
+    width:35%;
+}
+.movies a{
+    color: white;
+}
+.main2img{
+    width: 97%;
+    margin: auto;
+}
+.main2img img{
+    width: 100%;
+    
+    margin-top: 1rem;
+}

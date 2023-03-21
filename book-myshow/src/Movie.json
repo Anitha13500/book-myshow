@@ -1,0 +1,33 @@
+[
+    {
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-NS4zLzEwICAzLjhLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00322925-kurhuyumbw-portrait.jpg",
+        "MovieName":"Agilan",
+        "Discription":"Action/Drama/Thriller" ,
+        "id":1
+    },
+    {
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-NC42LzEwICAyNzUgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00311486-pgghghgrxs-portrait.jpg",
+        "MovieName":"Ghosty",
+        "Discription":"Comedy/Horror",
+        "id":2
+    },
+    {
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC4xLzEwICAxOC4zSyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00335415-jvkfdwbkqe-portrait.jpg",
+        "MovieName":"Vaathi",
+        "Discription":"Action/Drama",
+        "id":3
+    },
+    {
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4zLzEwICAxNy42SyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00349087-jlwphflscy-portrait.jpg",
+        "MovieName":"Dada",
+        "Discription":"Drama/Family",
+        "id":4
+    },
+    {
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC40LzEwICA2LjFLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00354652-arlmzwpbbd-portrait.jpg",
+        "MovieName":"Demon slayer",
+        "Discription":"Action/Adventure/Anime",
+        "id":5
+    }
+
+]

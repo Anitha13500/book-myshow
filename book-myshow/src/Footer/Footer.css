@@ -1,0 +1,19 @@
+.footermain{
+    display: flex;
+    justify-content:space-between;
+    padding:5rem;
+    width:85%;
+    margin:auto;
+}
+.footer{
+    background-color: #333338;
+}
+.foot1{
+    width:41%;
+}
+
+.footimg img{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
