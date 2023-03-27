@@ -2,7 +2,9 @@ import React from 'react'
 import Card from '@mui/material/Card';
 import CardMedia from '@mui/material/CardMedia';
 import "./Product.css"
+import { useNavigate } from 'react-router-dom';
 const Product = ({product}) => {
+  const navigate=useNavigate()
   console.log("product",product)
   return (
     <div>
@@ -12,6 +14,7 @@ const Product = ({product}) => {
           component="img"
           height="450"
           image={product.image}
+          onClick={()=>navigate(`/movieclick/${product.MovieName}`)}
         /> 
         </Card>
         <div className='prohead'>

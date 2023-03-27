@@ -10,7 +10,7 @@ const Footer = () => {
                 <hr></hr>
             </div>
             <div className='footimg'>
-            <img src={logo} />
+              <img src={logo}  alt="footerimage"/>
             </div>
             <div className='foot1'>
                 <hr></hr>
