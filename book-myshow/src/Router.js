@@ -1,5 +1,6 @@
 import React from 'react'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Clickticket from './Clickticket/Clickticket'
 import Mainpage from './Mainpage/Mainpage'
 import Movieclick from './MovieClick/Movieclick'
 
@@ -10,6 +11,7 @@ const Router = () => {
             <Routes>
                 <Route path='/' element={<Mainpage />}> </Route>
                 <Route path='/movieclick/:ids' element={ <Movieclick />}></Route>
+                <Route path='/Clickticket' element={<Clickticket />}></Route>
             </Routes>
         </BrowserRouter>
     </div>

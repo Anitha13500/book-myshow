@@ -1,19 +1,28 @@
 .Moviemain{
     display: flex;
     justify-content: space-between;
-    width:40%;
+    align-items: center;
+    background-repeat: no-repeat !important;
+    width: 100%;
+    height: 100vh;
+    background-size: cover !important;
+}
+.movieimg{
+    display: flex;
+    justify-content: space-between;
     align-items: center;
     margin-left: 5rem;
+    width:41%;
     margin-top: 2rem;
 }
 .moviebtn button{
-    background-color: red;
-    padding: 1rem;
+    background-color:#f84465;
+    padding: 1rem 2rem;
     border: none;
     color:white;
     font-size:1.5rem;
 }
 .moviebtn h2{
-    /* color: white; */
+    color: white;   
     font-size: 2rem;
 }
