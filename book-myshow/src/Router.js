@@ -11,7 +11,7 @@ const Router = () => {
             <Routes>
                 <Route path='/' element={<Mainpage />}> </Route>
                 <Route path='/movieclick/:ids' element={ <Movieclick />}></Route>
-                <Route path='/Clickticket' element={<Clickticket />}></Route>
+                <Route path='/Clickticket/:ticket' element={<Clickticket />}></Route>
             </Routes>
         </BrowserRouter>
     </div>

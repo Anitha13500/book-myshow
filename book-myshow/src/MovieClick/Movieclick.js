@@ -21,6 +21,7 @@ const Movieclick = () => {
                 <div className='moviebtn'>
                   <h2>{getData.MovieName}</h2>
                   <button onClick={()=> ticket()}>Book Tickets</button>
+                  {/* onClick={()=>navigate(`/movieclick/${product.MovieName}`)} */}
                 </div>
             </div>
         </div>
