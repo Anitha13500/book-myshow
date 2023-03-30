@@ -46,3 +46,44 @@
     text-align: center;
     
 }
+.out{
+    padding:2rem;
+    background-color:black;
+
+}
+.out h1{
+   color:white;
+}
+.bag{
+    margin-top: 2rem;
+    background-color: darkgrey;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    height: 70vh;
+
+}
+.the{
+    background-color: white;
+    padding: 3rem;
+    height: 60vh;
+    margin: auto;
+}
+.theatormain{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: white; */
+    margin-top: 3rem;
+    border-bottom: 1px solid black;
+}
+.timemain{
+    display: flex;
+    justify-content: space-between;
+    width:25%;
+    /* padding:2rem; */
+}
+.time{
+   margin-top: 1rem;
+    height:2rem;
+    border:1px solid black;
+    padding: 0.7rem;;
+}

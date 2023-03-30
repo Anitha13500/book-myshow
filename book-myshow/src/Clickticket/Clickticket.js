@@ -1,5 +1,5 @@
 import React from 'react'
-import { useParams } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
 import "./Clickticket.css";
 import Movie from "../Movie.json";
 
@@ -16,15 +16,18 @@ const Clickticket = () => {
 
     const date5=new Date()
     const date6 = date5.getDate()
-    // const date7=new Date()
-    // const date8=date7.getDate()
+    //     const navigate2=useNavigate()
+    //     const theatorsheet=()=>{
+    //   navigate2(`Theator/${getData.MovieName}`)
+    // }
+   
   return (
     <div>
-        <div className='tamil1'>
+       
             <div className='out'>
-                <h1>{fetchData.MovieName}-Tamil</h1>
+                <h1 className='container'>{fetchData.MovieName}-Tamil</h1>
             </div>
-        </div>
+
         <div className='ticketmain'>
             <div className='container'>
                  <div className="ticket1">
@@ -39,9 +42,8 @@ const Clickticket = () => {
                         <div className='date2'>
                             {date6 +2}
                         </div>
-                        {/* <div className='date2'>
-                            {date8 +3}
-                        </div> */}
+                     
+                     
                     </div>
                     
                         <div className='days'>
@@ -51,7 +53,61 @@ const Clickticket = () => {
                 </div>
             </div>
         </div>
-        <div className=''></div>
+        <div className='bag'>
+            <div className='container'>
+                <div className='the'>
+                    <div className='theatormain'>
+                        <div className='theatorname'>
+                            <h1>Jothi Theatre:chennai</h1>
+                        </div>
+                        <div className='timemain'>
+                            <div className='time'>
+                            <h3>10:45 AM</h3> 
+                            </div>
+                            <div className='time'>
+                            <h3>2:45 AM</h3> 
+                            </div>
+                            <div className='time'>
+                            <h3>6:45 AM</h3> 
+                            </div>
+                        </div>
+                    </div>
+                    <div className='theatormain'>
+                        <div className='theatorname'>
+                            <h1>Kasi Talkies:chennai</h1>
+                        </div>
+                        <div className='timemain'>
+                            <div className='time'>
+                            <h3>10:45 AM</h3> 
+                            </div>
+                            <div className='time'>
+                            <h3>2:45 AM</h3> 
+                            </div>
+                            <div className='time'>
+                            <h3>6:45 AM</h3> 
+                            </div>
+                        </div>
+                    </div>
+                    <div className='theatormain'>
+                        <div className='theatorname'>
+                            <h1>Albert Theatres:chennai</h1>
+                        </div>
+                        <div className='timemain'>
+                            <div className='time'>
+                            <h3>10:45 AM</h3> 
+                            </div>
+                            <div className='time'>
+                            <h3>2:45 AM</h3> 
+                            </div>
+                            <div className='time'>
+                            <h3>6:45 AM</h3> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
     </div>
   )
 }

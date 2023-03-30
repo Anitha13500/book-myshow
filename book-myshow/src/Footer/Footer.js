@@ -9,13 +9,15 @@ const Footer = () => {
             <div className='foot1'>
                 <hr></hr>
             </div>
-            <div className='footimg'>
+            <div className='footimg'>sss\\
               <img src={logo}  alt="footerimage"/>
             </div>
             <div className='foot1'>
                 <hr></hr>
             </div>
 
+        </div>
+        <div>
         </div>
         </div>
     </div>

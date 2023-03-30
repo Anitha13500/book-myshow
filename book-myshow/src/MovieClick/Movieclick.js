@@ -5,11 +5,11 @@ import "../MovieClick/Movieclick.css"
 // import MovieName from '../MovieName.json'
 const Movieclick = () => {
   const {ids}=useParams()
-  let getData=Movie.find ((e)=>e.MovieName===ids)
+  let getData=Movie.find ((e)=>e.MovieName==ids)
   console.log(getData);
   const navigate1=useNavigate()
   const ticket=()=>{
-    navigate1('/Clickticket' )
+    navigate1(`/Clickticket/${getData.MovieName}`)
   }
   return (
     <>
@@ -20,8 +20,8 @@ const Movieclick = () => {
                 </div>
                 <div className='moviebtn'>
                   <h2>{getData.MovieName}</h2>
-                  <button onClick={()=> ticket()}>Book Tickets</button>
-                  {/* onClick={()=>navigate(`/movieclick/${product.MovieName}`)} */}
+                  <button onClick={()=> ticket(navigate1)}>Book Tickets</button>
+                 
                 </div>
             </div>
         </div>
